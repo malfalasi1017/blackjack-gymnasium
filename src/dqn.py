@@ -15,7 +15,7 @@ from collections import deque
 use_pre_trained_model = False
 total_episodes = 100_000
 
-# Hpyerparameters
+# Hyperparameters
 GAMMA = 0.99
 LEARNING_RATE = 1e-3
 BUFFER_SIZE = 50000
